@@ -19,3 +19,5 @@ if ( a > 0 ):
         print('nilai a juga lebih besar dari 5')
     else:
         print('nilai a lebih kecil dari 5')
+
+print("hello mother father, i'm done with kondisional.py")
